@@ -1,0 +1,3 @@
+# Module edutechversion0
+# RPC service class, partial path of RPC policy file
+schooloperation.client.GreetingService, A5E5ED240C03509A26F2535E308474B0.gwt.rpc

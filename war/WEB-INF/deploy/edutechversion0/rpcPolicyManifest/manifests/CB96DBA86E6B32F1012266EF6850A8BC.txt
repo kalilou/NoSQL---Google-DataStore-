@@ -1,0 +1,2 @@
+serviceClass: schooloperation.client.GreetingService
+path: A5E5ED240C03509A26F2535E308474B0.gwt.rpc
